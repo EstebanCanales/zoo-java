@@ -1,0 +1,15 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+out/
+build/
+
+# Archivos Sensibles y Wallet
+.env
+wallet/
+*.jks
+*.sso
+*.ora
+
+# Java
+*.class
